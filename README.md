@@ -9,3 +9,9 @@ By exploring this project, you’ll see how I combine design precision with real
   - CSS
 
 ## some screenshots
+<img width="1298" height="649" alt="Screenshot from 2026-06-16 23-49-57" src="https://github.com/user-attachments/assets/b42087d3-3cda-4228-9912-ed3cd51179d9" />
+<img width="1298" height="649" alt="Screenshot from 2026-06-16 23-50-21" src="https://github.com/user-attachments/assets/7ce02963-7db0-4f91-bc3a-bf9c2b138737" />
+<img width="1298" height="649" alt="Screenshot from 2026-06-16 23-50-31" src="https://github.com/user-attachments/assets/d876915a-f8ba-4953-85c5-2aaec49e7d56" />
+<img width="1298" height="649" alt="Screenshot from 2026-06-16 23-50-39" src="https://github.com/user-attachments/assets/7f838109-5c14-4eb1-b4e6-95d4d97ab12d" />
+<img width="1311" height="657" alt="Screenshot from 2026-06-16 23-51-06" src="https://github.com/user-attachments/assets/f1785be0-0a10-4a29-aaea-fdfd61b9cf97" />
+<img width="1311" height="657" alt="Screenshot from 2026-06-16 23-51-16" src="https://github.com/user-attachments/assets/f3a18b85-4d49-4be8-a646-4d43d0c0333d" />
